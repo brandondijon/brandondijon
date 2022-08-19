@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 =====================================================================================================================================
 
 * 🌍  I'm based in Los Angeles
-* 🖥️  See my portfolio at [https://brandondijon.github.io/brandon-portfolio/](http://https://brandondijon.github.io/brandon-portfolio/)
+* 🖥️  See my portfolio at [github](http://https://brandondijon.github.io/brandon-portfolio/)
 * ✉️  You can contact me at [brandondijondev@gmail.com](mailto:brandondijondev@gmail.com)
 * 🧠  I'm learning Javascript
 * 🤝  I'm open to collaborating on HTML/CSS
