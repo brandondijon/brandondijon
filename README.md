@@ -5,7 +5,7 @@ Student
 -------
 
 * 🌍  I'm based in Los Angeles
-* 🖥️  See my portfolio at [https://brandondijon.github.io/brandon-portfolio/](http://https://brandondijon.github.io/brandon-portfolio/)
+* 🖥️  See my portfolio at [Portfolio](https://brandondijon.github.io/brandon-portfolio/)
 * ✉️  You can contact me at [brandondijondev@gmail.com](mailto:brandondijondev@gmail.com)
 * 🧠  I'm learning Javascript
 * 🤝  I'm open to collaborating on HTML/CSS/JAVASCRIPT
